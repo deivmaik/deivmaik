@@ -36,7 +36,6 @@ Feel free to contact me if you want to talk about blockchain and cryptocurrencie
 <code><img height="20" src="https://avatars.githubusercontent.com/u/26932212?s=200&v=4"></code>
 
 <h3 align="left">Connect with me:</h3>
-<br>
 <a href="https://www.linkedin.com/in/juarez-michael/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
