@@ -25,6 +25,11 @@ let michael = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
+**What I want to learn**  
+<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 
 
 **Blockchain:** <br>
@@ -34,6 +39,8 @@ Feel free to contact me if you want to talk about blockchain and cryptocurrencie
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/26932212?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/20126597?s=200&v=4"></code>
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/juarez-michael/" target="_blank">
