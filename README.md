@@ -13,26 +13,6 @@ let michael = {
 }
 ```
 
-**What I know:** 
-<br><br>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-    
-
-**Currently learning:**  
-<br>
-*Working in projects*
-
-**What I want to learn**  
-<br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-
-
 **Blockchain:** <br>
 I am interested in blockchain technology, this is a list of the technologies I like (not based on its market value). <br>
 Feel free to contact me if you want to talk about blockchain and cryptocurrencies! 😄 <br>
