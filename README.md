@@ -1,20 +1,9 @@
-# <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/deivmaik">Michael</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+![](https://raw.githubusercontent.com/deivmaik/deivmaik/main/github%20banner.png)
 
 
-
-**A little about me**
-```javascript
-let michael = {
-  countryBorn: 'Argentina' 
-  countryLived: ['Argentina', 'Bolivia', 'Chile', 'Spain', 'Germany', 'Norway', 'Denmark']
-  currentCountry: 'Denmark'
-  height: 1.82
-}
-```
 
 **Blockchain:** <br>
-I am interested in blockchain technology, this is a list of the technologies I like (not based on its market value). <br>
+I am interested in blockchain technology, this is a list of a few of the technologies I like (not based on its market value). <br>
 Feel free to contact me if you want to talk about blockchain and cryptocurrencies! 😄 <br>
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
